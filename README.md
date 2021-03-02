@@ -19,7 +19,7 @@ In another project terminal you can start server
 
 You will find Data of json
 
-Open [http://localhost:3003](http://localhost:3003) to view it in the browser.
+Open [http://localhost:3003/users](http://localhost:3003/users) to view it in the browser.
 "
 
 You will also see any lint errors in the console.
